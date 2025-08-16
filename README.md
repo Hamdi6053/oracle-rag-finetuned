@@ -3,7 +3,7 @@
 
 # Oracle SCM RAG System
 
-![Oracle RAG Workflow](./img/oracle_rag_workflow.png)
+<img width="1875" height="900" alt="image" src="https://github.com/user-attachments/assets/86c0081b-5fdf-4fac-aa54-b26ea3b7837f" />
 
 > This system is a customized **Retrieval-Augmented Generation (RAG)** solution for advanced search and response generation on Oracle Supply Chain Management (SCM) documentation. It extracts meaningful content from PDF-based documents, generates intelligent multi-queries, and provides contextually relevant, reliable answers to users.
 
